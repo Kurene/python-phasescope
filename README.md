@@ -1,2 +1,2 @@
 # python-phasescope
- [Demo](demo.gif)
+![Demo](demo.gif)
