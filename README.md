@@ -1,4 +1,6 @@
 # python-phasescope
+Python phasescope powered by PyQtGraph and PyAudio (for stereo audio/music)
+
 ![Demo](res/demo.gif)
 
 ## Demo (Music Video)
